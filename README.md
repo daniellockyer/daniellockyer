@@ -9,5 +9,6 @@ I sign commits + tags with my GPG signing key `0xD21186F0B47295AD` and publish N
 You can sponsor my work via:
 
 * [GitHub Sponsors](https://github.com/sponsors/daniellockyer)
+* [Buy Me a Coffee](https://www.buymeacoffee.com/daniellockyer)
 * Bitcoin: `bc1qsxrlx3ypnur94ap8n6wnvsatwk32u2gn46mnr2`
 * Ethereum: `0x830D1489e574e880dE6E1A3f53dDbdE40EE8C92d`
