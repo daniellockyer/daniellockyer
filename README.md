@@ -6,6 +6,8 @@ You can find my blog over [here](https://daniellockyer.com) and I'm also on [Twi
 
 I sign commits + tags with my GPG signing key `0xD21186F0B47295AD` and publish NPM packages under [`daniellockyer`](https://www.npmjs.com/~daniellockyer).
 
+I am generally pretty responsive to issues, pull requests and comments, but I get hundreds of notifications per week and may have missed it. If you feel like I've missed something, tag my GitHub account into a comment.
+
 You can sponsor my work via:
 
 * [GitHub Sponsors](https://github.com/sponsors/daniellockyer)
