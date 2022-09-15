@@ -6,7 +6,7 @@ I also maintain the most popular Node.js bindings for SQLite - https://github.co
 
 You can find my blog over [here](https://daniellockyer.com) and I'm also on [Twitter](https://twitter.com/daniellockyer) :star2:
 
-Commits + tags are signed with my GPG signing key `0xD21186F0B47295AD` and NPM packages are published under [`daniellockyer`](https://www.npmjs.com/~daniellockyer).
+Commits + tags are signed with my SSH Key Fingerprint: `m6dXZiQ1UAqegltEcTT83uQPSZy93sf+74IAhWrJyFk` and NPM packages are published under [`daniellockyer`](https://www.npmjs.com/~daniellockyer).
 
 I am generally pretty responsive to issues, pull requests and comments, but I get hundreds of notifications per week and may have missed it. If you feel like I've missed something, tag my GitHub account into a comment.
 
