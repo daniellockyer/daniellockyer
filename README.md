@@ -12,7 +12,8 @@ I am generally pretty responsive to issues, pull requests and comments, but I ge
 
 You can sponsor my work by donating via:
 
-* [Buy Me a Coffee](https://www.buymeacoffee.com/daniellockyer)
+<a href="https://www.buymeacoffee.com/daniellockyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=daniellockyer&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 * [GitHub Sponsors](https://github.com/sponsors/daniellockyer)
 * Bitcoin: `bc1qsxrlx3ypnur94ap8n6wnvsatwk32u2gn46mnr2`
 * Ethereum: `0x830D1489e574e880dE6E1A3f53dDbdE40EE8C92d`
