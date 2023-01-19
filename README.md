@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Core team engineer at [Ghost](https://ghost.org), helping to deliver a robust product to tens of thousands of users :gear:
+I'm a Core team engineer at [Ghost](https://ghost.org), helping to deliver a publishing platform to tens of thousands of users :gear:
 
 I also maintain the most popular Node.js bindings for SQLite - https://github.com/TryGhost/node-sqlite3
 
