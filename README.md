@@ -4,7 +4,7 @@ I'm a Core team engineer at [Ghost](https://ghost.org), helping to deliver a pub
 
 I also maintain the most popular Node.js bindings for SQLite - https://github.com/TryGhost/node-sqlite3
 
-You can find my blog over [here](https://daniellockyer.com) and I'm also on [Twitter](https://twitter.com/daniellockyer) :star2:
+You can find my blog over [here](https://daniellockyer.com) and I'm also on [X](https://x.com/daniellockyer) :star2:
 
 Commits + tags are signed with my SSH Key Fingerprint: `m6dXZiQ1UAqegltEcTT83uQPSZy93sf+74IAhWrJyFk` and NPM packages are published under [`daniellockyer`](https://www.npmjs.com/~daniellockyer).
 
