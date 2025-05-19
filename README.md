@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a Core team engineer at [Ghost](https://ghost.org), helping to deliver a publishing platform to tens of thousands of users :gear:
+I'm a freelance software engineer and consultant, focussing on improving the performance of the web.
+
+Previously, I was a Core team engineer at [Ghost](https://ghost.org), helping to deliver a publishing platform to tens of thousands of customers and millions of users. :gear:
 
 You can find my blog over [here](https://daniellockyer.com) and I'm also on [X](https://x.com/daniellockyer) :star2:
 
