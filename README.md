@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance software engineer and consultant, focussing on improving the performance of the web.
+I'm a freelance software engineer and consultant, focusing on improving the performance of the web.
 
 Previously, I was a Core team engineer at [Ghost](https://ghost.org), helping to deliver a publishing platform to tens of thousands of customers and millions of users. :gear:
 
