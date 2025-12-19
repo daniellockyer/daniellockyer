@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a performance and scaling consultant, focusing on making the web faster.
+I'm a performance and scaling consultant, focusing on making the web faster. Like my work? [Consider hiring me.](https://daniellockyer.com/)
 
 Previously, I was a core team engineer at [Ghost](https://ghost.org), helping to deliver a publishing platform to tens of thousands of customers and millions of users. :gear:
 
