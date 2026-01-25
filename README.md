@@ -15,3 +15,11 @@ You can sponsor my work by donating via:
 * [GitHub Sponsors](https://github.com/sponsors/daniellockyer)
 * Bitcoin: `bc1qsxrlx3ypnur94ap8n6wnvsatwk32u2gn46mnr2`
 * Ethereum: `0x830D1489e574e880dE6E1A3f53dDbdE40EE8C92d`
+
+---
+
+Some repos I maintain:
+
+* [Awesome Performance - a curated list of awesome performance stories](https://github.com/daniellockyer/awesome-performance)
+* [npm-scan - a 2 day project to detect malicious packages on npm](https://github.com/daniellockyer/npm-scan)
+* [node-sqlite3 - Node.js bindings for SQLite3](https://www.npmjs.com/package/sqlite3) (I've since left and no longer maintain this)
